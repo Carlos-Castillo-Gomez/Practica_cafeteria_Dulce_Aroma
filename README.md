@@ -1,5 +1,10 @@
 # Practica_cafeteria_Dulce_Aroma
 
+
+# ENLACE PARA DESCARGAR APLICACIÓN DESDE GOOGLE DRIVE
+https://drive.google.com/file/d/1QvOrRXi-YUfBY63612IPQxEwXYgNCNkg/view?usp=sharing
+
+
 # Guia de Usuario
 -Para comenzar, debemos mencionar que hay dos partes, una enfocada
 a personas que seran los clientes y otro por parte de los empleados, primero iniciaremos
